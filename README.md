@@ -1,5 +1,4 @@
-# PENETRATION-TESTING-REPORT
-PENETRATION TESTING REPORT
+<img width="704" height="483" alt="image" src="https://github.com/user-attachments/assets/a5b922c6-2f11-4925-a737-398923589301" /># PENETRATION-TESTING-REPORT
 PENETRATION TESTING REPORT
 FOOTPRINTING & NETWORK SCANNING PHASES
 W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
@@ -116,14 +115,16 @@ I also learned that technical findings should be documented clearly. A good cybe
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
 8. Evidences Collected
-  
- 
- 
- 
- 
+<img width="704" height="483" alt="image" src="https://github.com/user-attachments/assets/5770c90c-36f0-4f75-ba73-32606511cff8" />
+<img width="683" height="519" alt="image" src="https://github.com/user-attachments/assets/35fefc50-d216-4268-9b39-54102a944bdf" />
+<img width="1005" height="437" alt="image" src="https://github.com/user-attachments/assets/f325786d-66ff-44ec-8e66-53f72aebac54" />
+<img width="900" height="483" alt="image" src="https://github.com/user-attachments/assets/55b5a130-af0a-445d-9bf9-beb88fd7e9d5" />
+<img width="809" height="483" alt="image" src="https://github.com/user-attachments/assets/25d28079-6a6a-4db9-af1c-368100f1f27a" />
+<img width="637" height="483" alt="image" src="https://github.com/user-attachments/assets/f1581ac4-5b5e-49e5-a11f-d5f7c18934d9" />
 
- 
- 
+<img width="614" height="330" alt="image" src="https://github.com/user-attachments/assets/3e25ada0-76f3-4147-b572-e2e45ffe10a7" />
+
+<img width="1008" height="535" alt="image" src="https://github.com/user-attachments/assets/a92041e2-6608-45c0-a121-908e40950fdd" />
 
 -End-
 
